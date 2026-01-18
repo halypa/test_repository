@@ -11,4 +11,4 @@ def sum(a, b):
 
 
 def min(a, b):
-    return a - b
+    return a + b
